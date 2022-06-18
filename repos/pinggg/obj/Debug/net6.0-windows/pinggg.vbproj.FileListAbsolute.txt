@@ -1,0 +1,17 @@
+C:\Users\KAM\source\repos\pinggg\bin\Debug\net6.0-windows\pinggg.exe
+C:\Users\KAM\source\repos\pinggg\bin\Debug\net6.0-windows\pinggg.deps.json
+C:\Users\KAM\source\repos\pinggg\bin\Debug\net6.0-windows\pinggg.runtimeconfig.json
+C:\Users\KAM\source\repos\pinggg\bin\Debug\net6.0-windows\pinggg.dll
+C:\Users\KAM\source\repos\pinggg\bin\Debug\net6.0-windows\pinggg.pdb
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\pinggg.vbproj.AssemblyReference.cache
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\pinggg.Form1.resources
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\pinggg.vbproj.GenerateResource.cache
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\pinggg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\pinggg.AssemblyInfoInputs.cache
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\pinggg.AssemblyInfo.vb
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\pinggg.vbproj.CoreCompileInputs.cache
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\pinggg.dll
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\refint\pinggg.dll
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\pinggg.pdb
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\pinggg.genruntimeconfig.cache
+C:\Users\KAM\source\repos\pinggg\obj\Debug\net6.0-windows\ref\pinggg.dll
